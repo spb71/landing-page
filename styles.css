@@ -1,8 +1,24 @@
-nav {
-    background-color: black;
-    text-align: right;
+header {
+    border-bottom: 5px solid tan;
 }
 
-a {
+ul {
+    display: block;
+    text-align: right;
+    background-color: darkgreen;
+}
+
+li {
     color: white;
+    margin: 0 20px auto;
+    display: inline;  
+}
+
+.container {
+    background-color: beige;
+    display: block;
+}
+
+h1 {
+    text-align: center;
 }
